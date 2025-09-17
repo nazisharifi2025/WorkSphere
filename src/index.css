@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@layer components{
+  .font-kheal{
+    font-family: 'Passions Conflict', cursive;
+  }
+  .font-web{
+    font-family: 'Bodoni Moda', serif;
+  }
+  .text-nav{
+   color:  rgba(181, 158, 127, 1)  ;
+  }
+  .bg-nav{
+   background-color:  rgba(200, 185, 160, 1);
+  }
+  .bg-nav2{
+   background-color:  rgb(207, 202, 193);
+  }
+  .text-navb{
+   background-color:  rgb(207, 202, 193);
+  }
+};
