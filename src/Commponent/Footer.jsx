@@ -2,10 +2,10 @@ import React from 'react'
 
 function Footer() {
   return (
-    <section id='Contuct' className='h-[90vh] w-full bg-black text-nav flex flex-col justify-center items-center font-web'>
-        <h1 className='text-4xl'>Get In <span className='font-kheal text-stone-300'>Touch</span></h1>
-    <div className='h-[90%] w-full  flex justify-between items-center'>
-        <div className='w-1/2 h-full flex flex-col justify-center items-center'>
+    <section id='Contuct' className='lg:h-[90vh] h-fit w-full bg-black py-4 text-nav flex flex-col justify-center items-center font-web'>
+        <h1 className='text-4xl lg:my-0 md:my-0 my-5'>Get In <span className='font-kheal text-stone-300'>Touch</span></h1>
+    <div className='h-[90%] w-full  flex justify-between lg:flex-row flex-col items-center'>
+        <div className='lg:w-1/2 w-full h-full flex flex-col justify-center items-center'>
         <h1 className='font-bold text-3xl'>Contact Information</h1>
         <div className='h-fit w-full flex flex-col gap-7 py-6'>
             <div className='flex justify-between items-center w-[60%] mx-auto h-fit p-2'>
@@ -26,15 +26,15 @@ function Footer() {
             </div>
         </div>
         </div>
-          <div className='w-1/2 h-full flex flex-col items-center justify-center'>
+          <div className='lg:w-1/2 w-full h-full flex flex-col items-center justify-center'>
     <h1 className='text-2xl text-nav py-6'>Send A Messege</h1>
     <form className='w-full flex justify-center items-center flex-col gap-5'>
         <label htmlFor="">Your Name</label>
-        <input type="text" className='w-[60%] outline-0 border text-nav rounded-md py-3' placeholder='Nazi' />
+        <input type="text" className='lg:w-[60%] w-[80%] outline-0 border text-nav rounded-md py-3' placeholder='Nazi' />
         <label htmlFor="">Your Email</label>
-        <input type="text" className='w-[60%] outline-0 border text-nav rounded-md py-3' placeholder='nazisharifi415@gmail.com' />
+        <input type="text" className='lg:w-[60%] w-[80%] outline-0 border text-nav rounded-md py-3' placeholder='nazisharifi415@gmail.com' />
         <label htmlFor="">Your Email</label>
-        <textarea type="text" className='w-[60%] outline-0 border text-nav rounded-md py-3' placeholder='Hi there , i am Writing this to..' />
+        <textarea type="text" className='lg:w-[60%] w-[80%] outline-0 border text-nav rounded-md py-3' placeholder='Hi there , i am Writing this to..' />
         <button className='px-6 py-2 bg-nav text-black rounded-sm w-fit'>Send Messege</button>
     </form>
     </div>
