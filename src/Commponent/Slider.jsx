@@ -13,7 +13,7 @@ I'm always excited to connect with creative minds and explore new opportunities 
             </h1>
             <button className='py-2 px-5 bg-black font-web text-xl font-normal text-nav w-fit'><a href="#About">Read More..</a></button>
         </div>
-        <div className="  lg:right-22 md:right-44 right-0 lg:bottom-28.5 bottom-14   absolute  rounded-full  h-[414px] flex justify-center items-center w-[414px] bg-gradient-to-tr from-text-nav to-black animate-spin-slow">
+        <div className="  lg:right-22 md:right-44 right-0 lg:bottom-27 bottom-14   absolute  rounded-full  h-[414px] flex justify-center items-center w-[414px] bg-gradient-to-tr from-text-nav to-black animate-spin-slow">
           </div>    
             <div className='h-[400px] w-[400px] rounded-full bg-no-repeat text-nav bg-cover object-cover bg-center bg-[url(../public/Images/mee.jpg)]   '>
         </div>
