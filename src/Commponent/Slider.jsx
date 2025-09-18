@@ -4,7 +4,7 @@ function Slider() {
   return (
     <section id='Slider' className='lg:h-[100vh] h-fit flex justify-between items-center w-full bg-no-repeat bg-cover bg-center bg-[url(../public/Images/bg.jpg)]  '>
       <div className='flex relative justify-between lg:flex-row flex-col  items-center w-full px-4 lg:px-24 h-full bg-[rgba(107,108,109,0.4)] py-16'>
-        <div className='lg:h-full h-fit w-full lg:w-[40%] lg:mx-6 mx-0  flex flex-col gap-12 justify-end lg:py-18 py-6'>
+        <div className='lg:h-full h-fit w-full lg:w-[45%] lg:mx-6 mx-0  flex flex-col gap-12 justify-end lg:py-18 py-6'>
           <h1 className='text-sm font-web font-normal py-2 px-6 border w-fit rounded-full'>Front-End & Back-End <span className='font-bold text-sm text-nav'>Developer</span><br /></h1>
             <h1 className=' font-body font-normal'><span className='font-bold text-2xl'>Creating modern and device-compatible <span className='text-nav'>websites</span>  that help you grow and get noticed in the <span className='text-nav'>online world</span> </span>
             <div className='w-[50%] border-b '></div>
