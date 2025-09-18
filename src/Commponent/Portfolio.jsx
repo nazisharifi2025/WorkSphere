@@ -3,7 +3,7 @@ import React from 'react'
 function Portfolio() {
   return (
     <section id='Portifolio' className='h-fit w-full flex flex-col '>
-        <div className='lg:h-[80vh] md:h-[80vh] h-[85vh] w-full relative bg-black flex justify-between items-center font-body text-nav'>
+        <div className='lg:h-[80vh] md:h-[80vh] h-[89vh] w-full relative bg-black flex justify-between items-center font-body text-nav'>
             <div className='lg:w-[80%] md:w-[80%] h-[80%]  flex justify-center items-center'>
             <h1 className='lg:text-7xl md:text-7xl text-6xl font-normal absolute -top-9 lg:right-[35%] md:right-[25%] right-10 font-web'>PORTFOLIO</h1>
             <div className='lg:w-[40%] md:w-[70%] w-full h-[55%] flex flex-col relative gap-4 justify-center'>
@@ -25,7 +25,7 @@ This is just a preview — click below to see the full details and demo.</p>
         </div>
         </div>
         {/* one div ended */}
-        <div className='h-[80vh] w-full relative bg-nav2 flex justify-end items-center font-body text-nav'>
+        <div className='lg:h-[80vh] md:h-[80vh] h-fit w-full relative bg-nav2 flex justify-end items-center font-body text-nav'>
             <div className='w-[80%] h-full float-right flex justify-end items-center'>
             <div className='lg:w-[40%] w-full h-[55%] flex flex-col relative gap-4 justify-center'>
                 <h1 className='text-8xl text-stone-200 absolute top-0 -left-15 font-web'>2</h1>
@@ -43,7 +43,7 @@ This is just a preview — click below to see the full details and demo.</p>
         </div>
         </div>
         {/* div 2 endded */}
-        <div className='lg:h-[94vh] md:h-[80vh] h-screen  w-full relative bg-black flex justify-center items-center font-body text-nav'>
+        <div className='lg:h-[94vh] md:h-[80vh] h-fit  w-full relative bg-black flex justify-center items-center font-body text-nav'>
             <div className='w-[80%] h-full flex md:justify-center justify-center lg:justify-between px-6 lg:px-0 md:px-0 items-center'>
             <div className='lg:w-[40%] w-full h-[55%] flex flex-col relative gap-4 justify-center'>
                 <h1 className='text-8xl text-stone-300 absolute top-0 -left-15 font-web'>3</h1>
@@ -65,7 +65,7 @@ This is just a preview — click below to see the full details and demo.</p>
         </div>
         </div>
         {/* div 3 endded */}
-        <div className='lg:h-[80vh] md:h-[70vh] h-[75vh] w-full relative bg-nav2 flex justify-end items-center font-body text-nav'>
+        <div className='lg:h-[80vh] md:h-[70vh] h-[77vh] w-full relative bg-nav2 flex justify-end items-center font-body text-nav'>
             <div className='w-[80%] h-full float-right flex justify-end items-center'>
             <div className='lg:w-[40%] w-full h-[55%] flex flex-col relative gap-4 justify-center'>
                 <h1 className='text-8xl text-stone-200 absolute top-0 -left-15 font-web'>4</h1>
