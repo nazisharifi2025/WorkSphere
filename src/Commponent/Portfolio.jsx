@@ -20,7 +20,7 @@ This is just a preview — click below to see the full details and demo.</p>
 <button className='py-2 px-6 bg-nav text-black w-fit'>Learn More</button>
             </div>
              <div className='lg:h-[50vh] h-[30vh] absolute z-40 -bottom-24 border-8 text-nav md:right-10 lg:right-10 right-0 lg:w-[550px] md:w-[550px] w-full overflow-hidden'>
-            <div className=' bg-cover hover:scale-105 transition-all duration-500  h-full w-full bg-no-repeat bg-center bg-[url(public/Images/charity.jpg)] '></div>
+            <div className=' bg-cover hover:scale-105 transition-all duration-500  h-full w-full bg-no-repeat bg-center bg-[url(../public/Images/charity.jpg)] '></div>
             </div>
         </div>
         </div>
@@ -38,7 +38,7 @@ This is just a preview — click below to see the full details and demo.</p>
 <button className='py-2 px-6 bg-black text-nav w-fit'>Learn More..</button>
             </div>
             <div className='lg:h-[50vh] h-[30vh] absolute z-40 -bottom-24 border-8 text-nav lg:left-10 md:right-10 right-0 lg:w-[550px] md:w-[550px] w-full overflow-hidden'>
-            <div className=' bg-cover hover:scale-105 transition-all duration-500  h-full w-full bg-no-repeat bg-center bg-[url(public/Images/doctor.jpg)] '></div>
+            <div className=' bg-cover hover:scale-105 transition-all duration-500  h-full w-full bg-no-repeat bg-center bg-[url(../public/Images/doctor.jpg)] '></div>
             </div>
         </div>
         </div>
@@ -60,7 +60,7 @@ This is just a preview — click below to see the full details and demo.</p>
 <button className='py-2 px-6 bg-nav text-black w-fit'>Learn More</button>
             </div>
             <div className='lg:h-[50vh] h-[30vh] absolute z-40 -bottom-26 border-8 text-nav text-nav lg:right-10 md:right-10 right-0 lg:w-[550px] md:w-[550px] w-full overflow-hidden'>
-            <div className=' bg-cover hover:scale-105 transition-all duration-500  h-full w-full bg-no-repeat bg-center bg-[url(public/Images/home.jpg)]  '></div>
+            <div className=' bg-cover hover:scale-105 transition-all duration-500  h-full w-full bg-no-repeat bg-center bg-[url(../public/Images/home.jpg)]  '></div>
             </div>
         </div>
         </div>
@@ -78,7 +78,7 @@ This is just a preview — click below to see the full details and demo.</p>
 <button className='py-2 px-6 bg-black text-nav w-fit'>Learn More..</button>
             </div>
             <div className='lg:h-[50vh] h-[30vh] absolute z-40 -bottom-24 border-8 text-nav text-nav lg:left-10 md:right-10 right-0 lg:w-[550px] md:w-[550px] w-full  overflow-hidden'>
-            <div className=' bg-cover hover:scale-105 transition-all duration-500  h-full w-full bg-no-repeat bg-center bg-[url(public/Images/breza.png)] '></div>
+            <div className=' bg-cover hover:scale-105 transition-all duration-500  h-full w-full bg-no-repeat bg-center bg-[url(../public/Images/breza.png)] '></div>
             </div>
         </div>
         </div>
