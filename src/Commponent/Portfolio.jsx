@@ -25,7 +25,7 @@ This is just a preview — click below to see the full details and demo.</p>
         </div>
         </div>
         {/* one div ended */}
-        <div className='lg:h-[80vh] md:h-[80vh] h-fit w-full relative bg-nav2 flex justify-end items-center font-body text-nav'>
+        <div className='lg:h-[80vh] md:h-[80vh] h-[85vh] w-full relative bg-nav2 flex justify-end items-center font-body text-nav'>
             <div className='w-[80%] h-full float-right flex justify-end items-center'>
             <div className='lg:w-[40%] w-full h-[55%] flex flex-col relative gap-4 justify-center'>
                 <h1 className='text-8xl text-stone-200 absolute top-0 -left-15 font-web'>2</h1>
@@ -43,7 +43,7 @@ This is just a preview — click below to see the full details and demo.</p>
         </div>
         </div>
         {/* div 2 endded */}
-        <div className='lg:h-[94vh] md:h-[80vh] h-fit  w-full relative bg-black flex justify-center items-center font-body text-nav'>
+        <div className='lg:h-[94vh] md:h-[80vh] h-[85vh]  w-full relative bg-black flex justify-center items-center font-body text-nav'>
             <div className='w-[80%] h-full flex md:justify-center justify-center lg:justify-between px-6 lg:px-0 md:px-0 items-center'>
             <div className='lg:w-[40%] w-full h-[55%] flex flex-col relative gap-4 justify-center'>
                 <h1 className='text-8xl text-stone-300 absolute top-0 -left-15 font-web'>3</h1>
