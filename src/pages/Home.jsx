@@ -9,7 +9,7 @@ import Serveces from '../Commponent/Serveces'
 
 function Home() {
   return (
-    <div className='w-full bg-stone-200 h-screen overflow-y-scroll'>
+    <div className='w-full overflow-hidden bg-stone-200 h-screen overflow-y-scroll'>
         <Navbar/>
         <Slider/>
         <Serveces/>
