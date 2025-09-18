@@ -13,9 +13,9 @@ I'm always excited to connect with creative minds and explore new opportunities 
             </h1>
             <button className='py-2 px-5 bg-black font-web text-xl font-normal text-nav w-fit'><a href="#About">Read More..</a></button>
         </div>
-        <div className="  lg:right-32 md:right-44 right-0 lg:bottom-27 bottom-14   absolute  rounded-full  lg:h-[414px] md:h-[414px] h-[410px] lg:flex md:flex justify-center hidden items-center lg:w-[414px] md:w-[414px] w-[405px] mx-auto  bg-gradient-to-tr from-text-nav to-black animate-spin-slow">
+        <div className="  lg:right-46 md:right-44 right-0 lg:bottom-28 bottom-14   absolute  rounded-full  lg:h-[414px] md:h-[414px] h-[410px] lg:flex md:flex justify-center hidden items-center lg:w-[414px] md:w-[414px] w-[405px] mx-auto  bg-gradient-to-tr from-text-nav to-black animate-spin-slow">
           </div>    
-            <div className='lg:h-[400px] md:h-[400px] h-[396px] md:w-[400px] mx-auto w-full lg:w-[400px] rounded-full bg-no-repeat text-nav bg-cover object-cover bg-center bg-[url(../public/Images/mee.jpg)]  '>
+            <div className='lg:h-[400px] md:h-[400px] h-[396px] md:w-[400px] mx-auto w-full lg:w-[400px] rounded-full bg-no-repeat text-nav bg-cover object-cover bg-center bg-[url(../public/Images/mee.jpg)] animate-pulse '>
         </div>
           </div>
     </section>
