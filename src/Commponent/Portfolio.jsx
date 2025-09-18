@@ -3,7 +3,7 @@ import React from 'react'
 function Portfolio() {
   return (
     <section id='Portifolio' className='h-fit w-full flex flex-col '>
-        <div className='lg:h-[80vh] md:h-[80vh] h-[89vh] w-full relative bg-black flex justify-between items-center font-body text-nav'>
+        <div className='lg:h-[80vh] md:h-[80vh] h-[92vh] w-full relative bg-black flex justify-between items-center font-body text-nav'>
             <div className='lg:w-[80%] md:w-[80%] h-[80%]  flex justify-center items-center'>
             <h1 className='lg:text-7xl md:text-7xl text-6xl font-normal absolute -top-9 lg:right-[35%] md:right-[25%] right-10 font-web'>PORTFOLIO</h1>
             <div className='lg:w-[40%] md:w-[70%] w-full h-[55%] flex flex-col relative gap-4 justify-center px-5'>
@@ -43,11 +43,11 @@ This is just a preview — click below to see the full details and demo.</p>
         </div>
         </div>
         {/* div 2 endded */}
-        <div className='lg:h-[94vh] md:h-[80vh] h-[90vh]  w-full relative bg-black flex justify-center items-center font-body text-nav'>
+        <div className='lg:h-[94vh] md:h-[80vh] h-[95vh]  w-full relative bg-black flex justify-center items-center font-body text-nav'>
             <div className='w-[80%] h-full flex md:justify-center justify-center lg:justify-between px-6 lg:px-0 md:px-0 items-center'>
             <div className='lg:w-[40%] w-full h-[55%] flex flex-col relative gap-4 justify-center'>
                 <h1 className='text-8xl text-stone-300 absolute top-0 -left-15 font-web'>3</h1>
-                <h2 className='text-4xl text-nav w-[60%]'>Interior Design Website
+                <h2 className='lg:text-4xl md:text-4xl text-3xl text-nav w-[60%]'>Interior Design Website
 </h2>
                 <p className='text-sm w-[80%] text-stone-100  font-normal'>This website was created for an interior designer to showcase their work, services, and unique design approach in a sleek and modern way. The layout focuses on minimalism and elegance, allowing the visuals to speak for themselves and build trust with potential clients.
 </p>
