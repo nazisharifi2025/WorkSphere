@@ -6,7 +6,7 @@ function Portfolio() {
         <div className='lg:h-[80vh] md:h-[80vh] h-[89vh] w-full relative bg-black flex justify-between items-center font-body text-nav'>
             <div className='lg:w-[80%] md:w-[80%] h-[80%]  flex justify-center items-center'>
             <h1 className='lg:text-7xl md:text-7xl text-6xl font-normal absolute -top-9 lg:right-[35%] md:right-[25%] right-10 font-web'>PORTFOLIO</h1>
-            <div className='lg:w-[40%] md:w-[70%] w-full h-[55%] flex flex-col relative gap-4 justify-center'>
+            <div className='lg:w-[40%] md:w-[70%] w-full h-[55%] flex flex-col relative gap-4 justify-center px-3'>
                 <h1 className='text-8xl text-stone-300 absolute top-0 -left-15 font-web'>1</h1>
                 <h2 className='text-4xl text-nav w-[60%]'>CHARITY PLATFORM </h2>
                 <p className='text-sm w-[80%] text-stone-100  font-normal'>Give an intro to what your project is about and how it helps the community. This project is focused on supporting those in need through digital donations, volunteer coordination, and awareness campaigns.  
