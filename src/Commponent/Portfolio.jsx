@@ -43,11 +43,11 @@ This is just a preview — click below to see the full details and demo.</p>
         </div>
         </div>
         {/* div 2 endded */}
-        <div className='lg:h-[94vh] md:h-[80vh] h-[95vh]  w-full relative bg-black flex justify-center items-center font-body text-nav'>
+        <div className='lg:h-[94vh] md:h-[80vh] h-[105vh]  w-full relative bg-black flex justify-center items-center font-body text-nav'>
             <div className='w-[80%] h-full flex md:justify-center justify-center lg:justify-between px-6 lg:px-0 md:px-0 items-center'>
             <div className='lg:w-[40%] w-full h-[55%] flex flex-col relative gap-4 justify-center'>
                 <h1 className='text-8xl text-stone-300 absolute top-0 -left-15 font-web'>3</h1>
-                <h2 className='lg:text-4xl md:text-4xl text-3xl text-nav w-[60%]'>Interior Design Website
+                <h2 className='lg:text-4xl md:text-4xl text-3xl text-nav md:w-[60%] w-[90%]  lg:w-[60%]'>Interior Design Website
 </h2>
                 <p className='text-sm w-[80%] text-stone-100  font-normal'>This website was created for an interior designer to showcase their work, services, and unique design approach in a sleek and modern way. The layout focuses on minimalism and elegance, allowing the visuals to speak for themselves and build trust with potential clients.
 </p>
