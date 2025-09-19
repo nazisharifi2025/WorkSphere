@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <div className='h-20 fixed z-50 w-full text-nav bg-black flex justify-between items-center lg:px-14 md:px-14 px-5'>
         <h1 className='font-kheal text-5xl font-normal'>Nazi Sharifi</h1>
-        <ul id='menu' className='font-web lg:flex lg:flex-row lg:px-0 px-4 flex-col lg:h-[50%] h-68 absolute  bg-black lg:w-fit w-[80%] lg:top-8 top-18 md:right-20 right-10 lg:right-6 lg:bg-transparent hidden rounded-2xl lg:space-x-12 lg:gap-0 gap-12 font-normal text-xl'>
+        <ul id='menu' className='font-body lg:flex lg:flex-row lg:px-0 px-4 flex-col lg:h-[50%] h-68 absolute  bg-black lg:w-fit w-[80%] lg:top-8 top-18 md:right-20 right-10 lg:right-6 lg:bg-transparent hidden rounded-2xl lg:space-x-12 lg:gap-0 gap-12 font-normal text-xl'>
           <button className='lg:hidden md:block w-full border-b text-right' onClick={handelclose}>
         <i className='fas fa-times text-4xl'></i>
         </button>
